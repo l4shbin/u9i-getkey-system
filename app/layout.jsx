@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'U9I',
-  description: 'Key System',
+  title: 'U9i',
+  description: 'KeySystem Roblox Script',
 };
 
 export default function RootLayout({ children }) {
